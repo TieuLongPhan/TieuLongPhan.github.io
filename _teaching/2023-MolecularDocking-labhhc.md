@@ -16,7 +16,7 @@ Please download the presentation [here](https://tieulongphan.github.io/files/doc
 
 ## Introduction
 
-These tutorials were created between May-June 2023 as part of the [**MedAI Training Session**](https://tieulongphan.github.io/teaching/) for full execution over Google Colab and remote accesibility via web browsers.
+These tutorials were created between May-June 2023 as part of the [**Accelerate Scientific Discovery - Training Session**](https://tieulongphan.github.io/teaching/) for full execution over Google Colab and remote accesibility via web browsers.
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
 
 After this training session, you will know:
