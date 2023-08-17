@@ -16,7 +16,7 @@ Education
 * 2020-2022: [MSc. in Pharmacy](https://tieulongphan.github.io/files/Master%20Degree.pdf),  University of Medicine and Pharmacy at Ho Chi Minh city.
   * GPA: 8.68/10 - ranking 1%
   * Thesis: *In silico* modeling for prediction of potential HIV integrase inhibitors - Grade: 9.6/10
-* 2023+: Pursing Ph.D position in cheminformatics/machine learning.
+* 2023+: PhD Candidate [TACys](https://tacsy.eu) Program .
 
 Work experience
 ======
